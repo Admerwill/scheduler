@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 import Gradient from '../gradient';
 import ScheduleCourse from './scheduleCourse';
 import ProgressTracker from './progressTracker';
@@ -17,4 +18,5 @@ class Schedule extends Component {
         )
     }
 }
-export default Schedule; 
+
+export default Schedule;
